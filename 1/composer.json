@@ -1,0 +1,14 @@
+{
+    "name": "thinkphp/1",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "a1210450122",
+            "email": "1210450122@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
